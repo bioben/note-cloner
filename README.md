@@ -26,6 +26,9 @@ The app_gui.py file holds the code to launch the Tkinter GUI and methods to down
 
 ### Installing on Linux Desktop
 pyinstaller was used to package the application. The program executable for linux is under ./dist/main. Click to launch  
+If the executable is not working, user can use the app_gui.py file and launch it using pything 3.6  
+type in terminal:   
+python3 app_guiy.py
 
 ### Credits
 @author Benjamin Ahn  
